@@ -1,0 +1,6 @@
+@FluentValidation_HostAddress = http://localhost:5077
+
+GET {{FluentValidation_HostAddress}}/fluent-validation/
+Accept: application/json
+
+###
